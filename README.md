@@ -11,7 +11,7 @@ Steps for deployment:
     ```
     pip install awscli
     ```
-3. Type `aws configure` to configure AWS client
+3. Type `aws configure` to configure AWS client<br>
     ```
     $ aws configure
      AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
