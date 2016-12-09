@@ -17,3 +17,5 @@ Steps for deployment:
     ```
     eb deploy
     ```
+
+Deployed at: [http://flask-env.hnkf3fpmcd.eu-central-1.elasticbeanstalk.com/](http://flask-env.hnkf3fpmcd.eu-central-1.elasticbeanstalk.com/)
